@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-This is the home page!
 
-`TEMP CODE BLOCK`
-{: .fs-10 }
+## Installation
+
+`pip install QEmbed`
