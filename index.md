@@ -22,5 +22,6 @@ Upgrade to the latest version of QEmbed by running the following command:
 </p>
 
 <span style="font-size:3em;">Release notes</span>
+
 None at the moment.
 
