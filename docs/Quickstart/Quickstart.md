@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quickstart
-permalink: /docs/Quickstart/
+permalink: docs/Quickstart/
 nav_order : 2
 has_children: true
 ---
