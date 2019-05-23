@@ -4,6 +4,19 @@
 layout: home
 ---
 
-Installation:
+## Installation:
 
 `pip install QEmbed`
+
+or
+
+`pip3 install QEmbed`
+
+## Upgrade:
+
+`pip install QEmbed --upgrade`
+
+or 
+
+`pip install QEmbed --upgrade`
+
