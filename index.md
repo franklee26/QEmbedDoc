@@ -4,6 +4,7 @@
 layout: home
 ---
 
+# Setting Up
 ## Installation
 
 `pip install QEmbed`
