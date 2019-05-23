@@ -5,7 +5,7 @@ layout: home
 ---
 
 
-<span style="font-size:4em;">Installation</span>
+<span style="font-size:3em;">Installation</span>
 
 Install QEmbed by running the following command:
 
@@ -13,7 +13,7 @@ Install QEmbed by running the following command:
 <code class = "inlinecode"><span style="color: #f2cf4a; font-family: Monospace; font-size: 3em;">$ pip install QEmbed</span></code>
 </p>
 
-<span style="font-size:4em;">Upgrade</span>
+<span style="font-size:3em;">Upgrade</span>
 
 Upgrade to the latest version of QEmbed by running the following command:
 
