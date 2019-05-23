@@ -4,8 +4,8 @@
 layout: home
 ---
 
-# Setting Up
-## Installation:
+
+<span style="font-size:18em;">Installation</span>
 
 `pip install QEmbed`
 
@@ -13,7 +13,7 @@ or
 
 `pip3 install QEmbed`
 
-## Upgrade:
+<span style="font-size:18em;">Upgrade</span>
 
 `pip install QEmbed --upgrade`
 
