@@ -4,7 +4,7 @@
 layout: home
 ---
 This is the home page!!!
-# 'TEMP CODE BLOCK'
+# `TEMP CODE BLOCK`
 
 This is a paragraph with one <span style="font-size:larger;">`CODE HERE`</span>
 larger than the others.
