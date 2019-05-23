@@ -8,18 +8,24 @@ layout: home
 <span style="font-size:3em;">Installation</span>
 
 <p style="text-align: center;">
-<code class = "inlinecode"><span style="color: #f2cf4a; font-family: Monospace; font-size: 2em;">pip install QEmbed</span></code>
+<code class = "inlinecode"><span style="color: #f2cf4a; font-family: Monospace; font-size: 2em;">$ pip install QEmbed</span></code>
 </p>
 
 or
 
-`pip3 install QEmbed`
+<p style="text-align: center;">
+<code class = "inlinecode"><span style="color: #f2cf4a; font-family: Monospace; font-size: 2em;">$ pip3 install QEmbed</span></code>
+</p>
 
 <span style="font-size:3em;">Upgrade</span>
 
-`pip install QEmbed --upgrade`
+<p style="text-align: center;">
+<code class = "inlinecode"><span style="color: #f2cf4a; font-family: Monospace; font-size: 2em;">$ pip install QEmbed --upgrade</span></code>
+</p>
 
 or 
 
-`pip install QEmbed --upgrade`
+<p style="text-align: center;">
+<code class = "inlinecode"><span style="color: #f2cf4a; font-family: Monospace; font-size: 2em;">$ pip3 install QEmbed --upgrade</span></code>
+</p>
 
