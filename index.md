@@ -9,7 +9,7 @@ layout: home
 
 `pip install QEmbed`
 
-<span style="font-size: 10em;">`INSPIRATION DAY`</span>
+`<span style="font-size: 10em;">INSPIRATION DAY</span>`
 
 or
 
