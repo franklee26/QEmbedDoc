@@ -5,15 +5,15 @@ layout: home
 ---
 
 
-<span style="font-size:6em;">Installation</span>
+<span style="font-size:3em;">Installation</span>
 
-<span style="color: #f2cf4a; font-family: Monospace; font-size: 4em;">pip install QEmbed</span>
+<span style="color: #f2cf4a; font-family: Monospace; font-size: 2em;">pip install QEmbed</span>
 
 or
 
 `pip3 install QEmbed`
 
-<span style="font-size:6em;">Upgrade</span>
+<span style="font-size:3em;">Upgrade</span>
 
 `pip install QEmbed --upgrade`
 
