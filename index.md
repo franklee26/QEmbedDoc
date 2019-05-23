@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+{: .fs-10 }
 This is the home page!!!
 # `TEMP CODE BLOCK`
 
