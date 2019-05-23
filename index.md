@@ -5,5 +5,5 @@ layout: home
 ---
 This is the home page!!!
 
-This is a paragraph with one <span style="font-size:larger;">word</span>
+This is a paragraph with one <span style="font-size:larger;">`CODE HERE`</span>
 larger than the others.
