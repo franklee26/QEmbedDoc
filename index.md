@@ -7,7 +7,9 @@ layout: home
 
 <span style="font-size:3em;">Installation</span>
 
+<p style="text-align: center;">
 <code class = "inlinecode"><span style="color: #f2cf4a; font-family: Monospace; font-size: 2em;">pip install QEmbed</span></code>
+</p>
 
 or
 
