@@ -21,3 +21,6 @@ Upgrade to the latest version of QEmbed by running the following command:
 <code class = "inlinecode"><span style="color: #f2cf4a; font-family: Monospace; font-size: 3em;">$ pip3 install QEmbed --upgrade</span></code>
 </p>
 
+<span style="font-size:3em;">Release notes</span>
+None at the moment.
+
