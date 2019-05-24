@@ -25,6 +25,7 @@ github_username:  franklee16
 include: ['docs']
 # Build settings
 markdown: kramdown
+color_scheme: "dark"
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
