@@ -36,3 +36,4 @@ We can (try) to get the left and right partite sets for this graph and plot it o
 L, R = qe.greedyBipartiteSets()  # left and right partite sets
 qe.plotChimeraFromBipartite(left = L, right = R)
 ```
+![Example chimera](https://github.com/franklee26/QEmbedDoc/blob/master/_site/assets/images/chimera.png?raw=true)
