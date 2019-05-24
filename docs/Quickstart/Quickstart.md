@@ -28,4 +28,4 @@ qe.plotGraph()
 ```
 Below is our output graph:
 
-<img src="/_site/assets/images/quickstartgraph-removebg.png" alt="">
+<img src="/assets/images/quickstartgraph-removebg.png" alt="">
