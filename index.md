@@ -18,7 +18,7 @@ Install QEmbed by running the following command:
 Upgrade to the latest version of QEmbed by running the following command:
 
 <p style="text-align: center;">
-<span style="color: #f2cf4a; background-color: #3c3447; border-style: solid; border-color: #44434c; border-radius: 0.25em; font-family: Monospace; font-size: 3em;">$ pip3 install QEmbed --upgrade</span>
+<span style="color: #f2cf4a; background-color: #3c3447; border-style: solid; border-color: #44434c; border-radius: 0.25em; font-family: Monospace; font-size: 2.5em;">$ pip3 install QEmbed --upgrade</span>
 </p>
 
 <span style="font-size:3em;">Release notes:</span>
