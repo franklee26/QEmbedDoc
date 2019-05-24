@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://franklee26.github.io/QEmbedDoc/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  franklee16
-
+include: ['docs']
 # Build settings
 markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
