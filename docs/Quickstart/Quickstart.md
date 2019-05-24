@@ -6,4 +6,14 @@ nav_order : 2
 has_children: true
 ---
 
-Wow this is very cool.
+# Quickstart
+
+Here's a quick introduction to some fundamental tools that you can use with QEmbed. Import the package:
+```python
+import QEmbed.Embed as Q
+```
+QEmbed can be initialised by a provided graph of the form:
+```python
+exampleGraph = [(1,2),(3,4),(2,4),(1,5)] # Format of an example input graph
+```
+where a graph is represented as a list of 2-tuples. As usual the numbers represent the node label and each tuple is an undirected edge.
