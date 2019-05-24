@@ -28,4 +28,4 @@ qe.plotGraph()
 ```
 Below is our output graph:
 
-![alt text](https://github.com/franklee26/QEmbedDoc/blob/master/_site/assets/images/quickstartgraph-removebg.png "Example graph plot")
+![Example graph](/_site/assets/images/quickstartgraph-removebg.png)
