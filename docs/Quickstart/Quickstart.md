@@ -6,7 +6,7 @@ nav_order : 2
 has_children: true
 ---
 
-# Quickstart
+# Quickstart: Graph generation and plotting
 
 Here's a quick introduction to some fundamental tools that you can use with QEmbed. Import the package:
 ```python
