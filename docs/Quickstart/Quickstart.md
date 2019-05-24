@@ -26,3 +26,6 @@ QEmbed uses NetworkX to do graph plotting. The graph can be plotted with the cal
 ```python
 qe.plotGraph()
 ```
+Below is our output graph:
+
+![alt text](https://github.com/franklee26/QEmbedDoc/blob/master/_site/assets/images/quickstartgraph-removebg.png "Example graph plot")
