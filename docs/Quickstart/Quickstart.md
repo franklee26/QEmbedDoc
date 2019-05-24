@@ -29,3 +29,5 @@ qe.plotGraph()
 Below is our output graph:
 
 <img src="/_site/assets/images/quickstartgraph-removebg.png" alt="">
+
+We can try to find a Bipartite set from this graph with the command:
