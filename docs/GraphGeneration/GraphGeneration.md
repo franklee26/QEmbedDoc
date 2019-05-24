@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GraphGeneration
+title: Graph Generation
 permalink: docs/GraphGeneration/
 nav_order : 3
 has_children: true
