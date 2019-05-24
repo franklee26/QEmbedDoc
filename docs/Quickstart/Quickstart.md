@@ -30,3 +30,9 @@ Below is our output graph:
 
 ![Example graph](https://github.com/franklee26/QEmbedDoc/blob/master/_site/assets/images/evenbetter-removebg.png?raw=true)
 
+We can (try) to get the left and right partite sets for this graph and plot it on an appropriate Chimera topology (if it is indeed bipartite). 
+
+```python
+L, R = qe.greedyBipartiteSets()  # left and right partite sets
+qe.plotChimeraFromBipartite(left = L, right = R)
+```
