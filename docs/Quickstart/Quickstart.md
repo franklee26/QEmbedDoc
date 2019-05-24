@@ -16,6 +16,13 @@ QEmbed can be initialised by a provided graph of the form:
 ```python
 exampleGraph = [(1,2),(3,4),(2,4),(1,5)] # Format of an example input graph
 ```
-where a graph is represented as a list of 2-tuples. As usual the numbers represent the node label and each tuple is an undirected edge.
+where a graph is represented as a list of 2-tuples. As usual the numbers represent the node label and each tuple is an undirected edge. We initialise the object:
 
-QEmbed uses NetworkX to do graph plotting.
+```python
+qe = Q.Embedding(exampleGraph)
+```
+
+QEmbed uses NetworkX to do graph plotting. The graph can be plotted with the call
+```python
+qe.plotGraph()
+```
