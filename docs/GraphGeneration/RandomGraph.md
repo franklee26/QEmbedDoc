@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Random graph
-parent: GraphGeneration
+parent: Graph Generation
 nav_order: 2
 ---
 
