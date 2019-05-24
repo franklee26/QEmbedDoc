@@ -28,6 +28,6 @@ qe.plotGraph()
 ```
 Below is our output graph:
 
-![Example graph](/_site/assets/images/quickstartgraph-removebg.png)
+![Example graph](https://github.com/franklee26/QEmbedDoc/blob/master/_site/assets/images/quickstartgraph-removebg.png)
 
 We can try to find a Bipartite set from this graph with the command:
