@@ -28,4 +28,4 @@ qe.plotGraph()
 ```
 Below is our output graph:
 
-![Example graph](/_site/assets/images/quickstartgraph-removebg.png)
+![Example graph](/_site/assets/images/quickstartgraph-removebg.png){:class="img-responsive"}
