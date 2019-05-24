@@ -10,7 +10,7 @@ layout: home
 Install QEmbed by running the following command:
 
 <p style="text-align: center;">
-<span style="color: #f2cf4a; background-color: #302b3a; font-family: Monospace; font-size: 3em;">$ pip install QEmbed</span>
+<span style="color: #f2cf4a; background-color: #302b3a; border-radius: 0.25em; font-family: Monospace; font-size: 3em;">$ pip install QEmbed</span>
 </p>
 
 <span style="font-size:3em;">Upgrade:</span>
