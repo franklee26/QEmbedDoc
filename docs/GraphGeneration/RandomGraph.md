@@ -5,4 +5,4 @@ parent: GraphGeneration
 nav_order: 2
 ---
 
-Child stuff
+# Random graph generation
