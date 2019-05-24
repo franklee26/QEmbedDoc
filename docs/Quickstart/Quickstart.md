@@ -28,7 +28,7 @@ qe.plotGraph()
 ```
 Below is our output graph:
 
-![Example graph](https://github.com/franklee26/QEmbedDoc/blob/master/_site/assets/images/evenbetter-removebg.png?raw=true)
+![Example graph](https://i.imgur.com/T9Eu9eg.png)
 
 We can (try) to get the left and right partite sets for this graph and plot it on an appropriate Chimera topology (if it is indeed bipartite). 
 
@@ -36,4 +36,4 @@ We can (try) to get the left and right partite sets for this graph and plot it o
 L, R = qe.greedyBipartiteSets()  # left and right partite sets
 qe.plotChimeraFromBipartite(left = L, right = R)
 ```
-![Example chimera](https://github.com/franklee26/QEmbedDoc/blob/master/_site/assets/images/chimera.png?raw=true)
+![Example chimera](https://i.imgur.com/cD8xZnN.png)
