@@ -2,7 +2,7 @@
 layout: default
 title: Random graph
 parent: Graph Generation
-nav_order: 2
+nav_order: 3
 ---
 
 # Random graph generation
