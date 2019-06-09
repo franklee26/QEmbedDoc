@@ -20,7 +20,7 @@ Method generates a fully connected undirected graph with `numNodes` nodes, `numE
 <span style="font-size:1.8em;">Parameters:</span>
 * **numNodes** - The number of nodes desired, value is defaulted to 2 nodes.
 * **numEdges** - The number of edges desired, value is defaulted to 1 edge.
-* **allowedRedos** - The max number of retries allowed for trying to insert an edge in the graph.
+* **allowedRedos** - The max number of retries allowed for trying to insert an edge in the graph, value is defaulted to 2000 max retries.
 
 <span style="font-size:1.8em;">Returns:</span>
 * None - populates the `Embed` object with graph
