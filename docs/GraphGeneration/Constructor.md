@@ -18,7 +18,7 @@ nav_order: 2
 Initialises `QEmbed` object with `graph` as the input graph.
 
 <span style="font-size:1.8em;">Parameters:</span>
-* **graph** - The input graph, which must be a list of tuple of integers. 
+* **graph** - The input graph, which must be a list of tuple of integers. Default is an empty list. 
 
 <span style="font-size:1.8em;">Returns:</span>
 * QEmbed Obj - returns QEmbed object
