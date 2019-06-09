@@ -8,7 +8,7 @@ nav_order: 2
 # Constructor
 
 <p style="text-align: left;">
-<span style="display: block; color: #111111; background-color: #cde4f7; border-top: 8px solid; border-top-color: #599ad6; font-family: Monospace; font-size: 1.4em; height: 30px;">
+<span style="display: block; color: #111111; background-color: #cde4f7; border-top: 8px solid; border-top-color: #599ad6; font-family: Monospace; font-size: 1.4em; height: 40px;">
 	QEmbed.Embed.Embedding(
 	<span style = "color: #e0147d;"> graph = None </span>
 	)
