@@ -23,4 +23,4 @@ Method generates a fully connected undirected graph with `numNodes` nodes, `numE
 * **allowedRedos** - The max number of retries allowed for trying to insert an edge in the graph, value is defaulted to 2000 max retries.
 
 <span style="font-size:1.8em;">Returns:</span>
-* <span style = "color: #e0147d"> None </span> - populates the `Embed` object with graph
+* <span style = "color: #67d8ef"> None </span> - populates the `Embed` object with graph
