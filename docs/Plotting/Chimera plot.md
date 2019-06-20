@@ -15,7 +15,7 @@ nav_order: 3
 </span>
 </p>
 
-Plots a chimera graph given a bipartite left and right sets.
+Plots a chimera graph given a bipartite left and right sets. Under the hood, this will embed the bipartite graph to the chimera topology but will not alter the provided sets.
 
 <span style="font-size:1.8em;">Parameters:</span>
 * **showMappings** - Boolean flag that prints mappings to console. 
