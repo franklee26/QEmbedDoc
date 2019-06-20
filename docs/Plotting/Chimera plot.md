@@ -10,7 +10,7 @@ nav_order: 3
 <p style="text-align: left;">
 <span style="display: block; color: #111111; background-color: #cde4f7; border-top: 8px solid; border-top-color: #599ad6; font-family: Monospace; font-size: 1.4em;">
 	QEmbed.Embed.plotChimeraFromBipartite(
-	<span style = "color: #e0147d;"> showMappings = False, L = 2, M = 2, N = 2, *, left = [], right = [], isBipartite = False </span>
+	<span style = "color: #e0147d;"> showMappings = False, L = 2, M = 2, N = 2, left = [], right = [], isBipartite = False </span>
 	)
 </span>
 </p>
